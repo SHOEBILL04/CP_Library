@@ -1,0 +1,4 @@
+1. to replace any word with another->  :%s/oldword/newword/g
+2. to replace in a selection-> :s/oldword/newword/g
+3. to remove blank lines-> :g/^$/d
+4. to count occurrences of word-> :%s/word/gn 
